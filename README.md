@@ -179,11 +179,11 @@ const farah = {
 
 I'm always open to interesting conversations, collaboration opportunities, and innovative projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farah-abbes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/farah-abbes](https://www.linkedin.com/in/farah-abbes-4aa389222/))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahabbes210@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+216%2021%20088%20823-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21621088823)
 
-📍 **Based in**: Sfax, Tunisia 🇹🇳
+📍 **Based in**: Tunis, Tunisia 🇹🇳
 
 ---
 
