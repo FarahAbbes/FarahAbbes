@@ -20,8 +20,8 @@
 const farah = {
     location: "Sfax, Tunisia 🇹🇳",
     education: "Software Engineering Student @ ISIMM",
-    currentFocus: ["Full-Stack Development", "DevOps", "CI/CD Automation"],
-    lookingFor: "Final Year Internship (PFE) in Web Development & DevOps",
+    currentFocus: ["Full-Stack Development", "QA", "DevOps", "CI/CD Automation"],
+    lookingFor: "Final Year Internship (PFE) in Web Development, QA & DevOps",
     passions: ["Building Scalable Solutions", "Automation", "Innovation"],
     funFact: "3x National Hackathon Winner 🏆"
 };
@@ -33,7 +33,7 @@ const farah = {
 
 </div>
 
-- 🎯 Seeking **PFE internship** in Full-Stack Development & DevOps
+- 🎯 Seeking **PFE internship** in Full-Stack Development, QA & DevOps
 - 🌱 Currently mastering **CI/CD pipelines** and **cloud technologies**
 - 🏆 **3x National Hackathon Winner** (Nxthon, Pitch for Change 5.0, INJAZ)
 - 💡 Passionate about building innovative solutions with **technical excellence**
