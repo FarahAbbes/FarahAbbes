@@ -22,8 +22,8 @@ const farah = {
     education: "Software Engineering Student @ ISIMM",
     currentFocus: ["Full-Stack Development", "QA", "DevOps", "CI/CD Automation"],
     lookingFor: "Final Year Internship (PFE) in Web Development, QA & DevOps",
-    passions: ["Building Scalable Solutions", "Automation", "Innovation"],
-    funFact: "3x National Hackathon Winner 🏆"
+    passions: ["Building Scalable Solutions", "Automation", "Innovation"]
+    
 };
 ```
 
@@ -143,19 +143,6 @@ const farah = {
 
 **Leadership**: General Secretary @ ATAST FsegMA Club
 
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![Cisco](https://img.shields.io/badge/-Cisco%20CCNA2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20CCNA1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**CCNA2**: Switching, Routing, and Wireless Essentials  
-**CCNA1**: Introduction to Networks
-
-</div>
 
 ---
 
